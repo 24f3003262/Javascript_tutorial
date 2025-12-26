@@ -1,4 +1,4 @@
-const PI=3.14159;
+const PI=3.14159; // If i try to change the value of PI later then it will throw an exception in the console.
 let radius;
 let circumference;
 
