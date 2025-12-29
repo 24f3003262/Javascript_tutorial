@@ -6,3 +6,4 @@ Throughout the course I have done several projects for application of concepts I
 
 - 7 (Project) Counter Program
 - 9 (Project) Random Number Generator
+- 21 (Project) Number Guessing Game
