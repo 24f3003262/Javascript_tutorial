@@ -8,3 +8,4 @@ Throughout the course I have done several projects for application of concepts I
 - 9 (Project) Random Number Generator
 - 21 (Project) Number Guessing Game
 - 24 (Project) Temperature Converter
+- 28 (Project) Dice Roller
