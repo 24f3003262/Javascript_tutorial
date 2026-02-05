@@ -9,3 +9,4 @@ Throughout the course I have done several projects for application of concepts I
 - 21 (Project) Number Guessing Game
 - 24 (Project) Temperature Converter
 - 28 (Project) Dice Roller
+- 29 (Project) Random Password Generator
