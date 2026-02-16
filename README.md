@@ -10,3 +10,4 @@ Throughout the course I have done several projects for application of concepts I
 - 24 (Project) Temperature Converter
 - 28 (Project) Dice Roller
 - 29 (Project) Random Password Generator
+- 53 (Project) Digital Clock
