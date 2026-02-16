@@ -1,0 +1,68 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: linear-gradient(to right,rgb(0, 106, 255),rgb(0, 255, 247));
+}
+
+h1{
+    font-size: 4em;
+    font-family: "Arial",sans-serif;
+    color: hsl(0, 0%, 100%);
+    text-shadow: 2px 2px 2px hsla(0, 0%, 0%, 0.773);
+    margin-bottom: 25px
+}
+
+#container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid;
+    border-radius: 50px;
+    padding: 30px;
+    background-color: rgba(241, 255, 135, 0.756);
+}
+
+#display{
+    font-size: 5rem;
+    font-family: monospace;
+    font-weight: bold;
+    color: hsl(0, 0%, 100%);
+    text-shadow: 2px 2px 2px hsla(0, 0%, 0%, 0.773);
+    margin-bottom: 25px;
+}
+
+#controls button{
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 10px 20px;
+    margin:5px;
+    min-width: 125px;
+
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 2px 2px 2px hsla(0, 0%, 0%, 0.773);
+}
+
+#startBtn{
+    background-image: linear-gradient(to right,rgb(124, 229, 168),rgba(135, 246, 135, 0.589));
+}
+
+#stopBtn{
+    background-image: linear-gradient(to right,rgb(229, 124, 124),rgba(251, 255, 0, 0.589));
+}
+
+#resetBtn{
+    background-image: linear-gradient(to right,rgb(255, 255, 255),rgba(0, 0, 0, 0.597));
+}
+
+button:hover{
+    filter: brightness(60%);
+    transition: filter 0.6s ease;
+}
+button:active{
+    transform: translateY(3px);
+    box-shadow: 0px 0px 2px hsla(0, 0%, 0%, 0.084);
+}
