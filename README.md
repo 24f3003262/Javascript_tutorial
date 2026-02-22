@@ -12,3 +12,4 @@ Throughout the course I have done several projects for application of concepts I
 - 29 (Project) Random Password Generator
 - 53 (Project) Digital Clock
 - 54 (Project) Stopwatch
+- 58 (Project) Calculator Program
