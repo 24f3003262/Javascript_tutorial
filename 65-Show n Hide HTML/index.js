@@ -1,0 +1,27 @@
+const myButton=document.getElementById("myButton");
+const myImg=document.getElementById("myImg");
+
+// myButton.addEventListener("click",event=>{
+//     if(myImg.style.display==="none"){
+//         myImg.style.display="block";
+//         myButton.textContent="Hide";
+//     }else{
+//         myImg.style.display="none";
+//         myButton.textContent="Show";
+//     }
+// })
+
+
+
+//replace display with visibility if we want the same feature but keep the space for the image vacant
+
+myButton.addEventListener("click",event=>{
+    if(myImg.style.visibility==="hidden"){
+        myImg.style.visibility="visible";
+        myButton.textContent="Hide";
+    }else{
+        myImg.style.visibility="hidden";
+        myButton.textContent="Show";
+    }
+})
+
