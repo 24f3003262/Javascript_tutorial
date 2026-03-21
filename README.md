@@ -13,3 +13,4 @@ Throughout the course I have done several projects for application of concepts I
 - 53 (Project) Digital Clock
 - 54 (Project) Stopwatch
 - 58 (Project) Calculator Program
+- 68 (Project) Rock, paper, scissors game
