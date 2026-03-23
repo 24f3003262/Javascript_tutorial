@@ -14,3 +14,5 @@ Throughout the course I have done several projects for application of concepts I
 - 54 (Project) Stopwatch
 - 58 (Project) Calculator Program
 - 68 (Project) Rock, paper, scissors game
+- 69 (Project) Image Slider
+
